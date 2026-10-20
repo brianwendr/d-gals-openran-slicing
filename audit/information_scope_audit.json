@@ -1,0 +1,8 @@
+{
+  "controller_uses_current_true_queue_in_allocation": false,
+  "neighbor_inputs_are_delayed_scalar_summaries_only": true,
+  "e2_delay_injected": true,
+  "shared_summary_delay_injected": true,
+  "max_prb_normalization_error": 2.220446049250313e-16,
+  "passed": true
+}
